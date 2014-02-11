@@ -2,11 +2,12 @@
 
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12pt;
-  font-weight: bold;
+  
 }
 
-h1 {
+h1, h2 {
   
+  font-size: 22pt;
   color: #b41e3c;
   font-style: italic;
   
