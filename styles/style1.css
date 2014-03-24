@@ -2,6 +2,14 @@
  font-family: helvetica, sans-serif;   
 }
 
+a {
+ text-decoration: none;
+ color: #eee;
+ 
+}
+
+
+
 .internal {
  display: inline;
  text-decoration: none;
