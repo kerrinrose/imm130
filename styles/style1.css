@@ -1,0 +1,16 @@
+* {
+ font-family: helvetica, sans-serif;   
+}
+
+.internal {
+ display: inline;
+ text-decoration: none;
+ color: #F60;
+padding-right: 50px;
+}
+
+.external {
+ text-decoration: none;
+ color: #A0B;
+padding-right: 50px;
+}
